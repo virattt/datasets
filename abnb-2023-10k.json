@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What was Airbnb's revenue in 2023?",
+    "answer": "$9.9 billion",
+    "context": "In 2023, revenue increased by 18% to $9.9 billion compared to 2022, primarily due to a 14% increase in Nights and Experiences Booked of 54.5 million combined with higher average daily rates driving a 16% increase in Gross Booking Value of $10.0 billion."
+  },
+  {
+    "question": "By what percentage did Airbnb's net income increase in 2023 compared to the prior year?",
+    "answer": "153%",
+    "context": "Net income in 2023 increased by 153% to $4.8 billion, compared to the prior year, driven by our revenue growth, increased interest income, discipline in managing our cost structure, and the release of a portion of our valuation allowance on deferred tax assets of $2.9 billion."
+  },
+  {
+    "question": "How much was Airbnb's Adjusted EBITDA in 2023?",
+    "answer": "$3.7 billion",
+    "context": "Adjusted EBITDA increased 26% to $3.7 billion in 2023 demonstrating the continued strength of our business, a modest increase in ADR, and discipline in managing our cost structure."
+  },
+  {
+    "question": "What was Airbnb's net cash provided by operating activities in 2023?",
+    "answer": "$3.9 billion",
+    "context": "Our net cash provided by operating activities was $3.9 billion in 2023, compared to $3.4 billion, in the prior year."
+  },
+  {
+    "question": "How much Free Cash Flow did Airbnb generate in 2023?",
+    "answer": "$3.8 billion",
+    "context": "We generated Free Cash Flow of $3.8 billion for the year ended December 31, 2023, compared to $3.4 billion, in the prior year. The increase was primarily driven by growth in revenue, unearned fees and net income."
+  },
+  {
+    "question": "How many shares of Class A common stock did Airbnb repurchase in 2023?",
+    "answer": "17.9 million",
+    "context": "During 2023, we repurchased an aggregate of 17.9 million shares of Class A common stock for $2.3 billion, through two share repurchase programs."
+  },
+  {
+    "question": "How much did Airbnb have available to repurchase shares of Class A common stock as of December 31, 2023?",
+    "answer": "$750 million",
+    "context": "As of December 31, 2023, we had $750 million available to repurchase shares of Class A common stock under our share repurchase program."
+  },
+  {
+    "question": "When did the World Health Organization formally declare an end to the COVID-19 global health emergency?",
+    "answer": "May 2023",
+    "context": "In May 2023, the World Health Organization formally declared an end to the COVID-19 global health emergency."
+  },
+  {
+    "question": "What factors have contributed to an increasingly complex business environment for Airbnb?",
+    "answer": "Inflation and other macroeconomic pressures in the United States and the global economy, such as rising interest rates, and foreign currency fluctuations, as well as evolving geopolitical conflicts",
+    "context": "More recently, inflation and other macroeconomic pressures in the United States and the global economy, such as rising interest rates, and foreign currency fluctuations, as well as evolving geopolitical conflicts, have contributed to an increasingly complex business environment."
+  },
+  {
+    "question": "What was Airbnb's net income in 2023?",
+    "answer": "$4.8 billion",
+    "context": "Net income in 2023 increased by 153% to $4.8 billion, compared to the prior year, driven by our revenue growth, increased interest income, discipline in managing our cost structure, and the release of a portion of our valuation allowance on deferred tax assets of $2.9 billion."
+  },
+  {
+    "question": "What factors drove Airbnb's net income growth in 2023?",
+    "answer": "Revenue growth, increased interest income, discipline in managing cost structure, and the release of a portion of the valuation allowance on deferred tax assets",
+    "context": "Net income in 2023 increased by 153% to $4.8 billion, compared to the prior year, driven by our revenue growth, increased interest income, discipline in managing our cost structure, and the release of a portion of our valuation allowance on deferred tax assets of $2.9 billion."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's Nights and Experiences Booked in 2023 compared to 2022?",
+    "answer": "14%",
+    "context": "In 2023, we had 448.2 million Nights and Experiences Booked, a 14% increase from 393.7 million in 2022. The increase in our Nights and Experiences Booked was driven by strong growth across all regions."
+  },
+  {
+    "question": "What was Airbnb's Gross Booking Value in 2023?",
+    "answer": "$73.3 billion",
+    "context": "In 2023, our GBV was $73.3 billion, a 16% increase from $63.2 billion in 2022. The increase in our GBV was primarily due to an increase in Nights and Experiences Booked, combined with a modest increase in ADR."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's Gross Booking Value in 2023 compared to 2022?",
+    "answer": "16%",
+    "context": "In 2023, our GBV was $73.3 billion, a 16% increase from $63.2 billion in 2022. The increase in our GBV was primarily due to an increase in Nights and Experiences Booked, combined with a modest increase in ADR."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's cost of revenue in 2023 compared to 2022?",
+    "answer": "14%",
+    "context": "Cost of revenue increased $204 million, or 14%, in 2023 compared to 2022, primarily due to an increase in merchant fees and chargebacks of $163 million and $10 million, respectively, due to an increase in pay-in volumes, and an increase in cloud computing costs of $31 million due to increased server and data storage usage."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's operations and support expense in 2023 compared to 2022?",
+    "answer": "14%",
+    "context": "Operations and support expense increased $145 million, or 14%, in 2023 compared to 2022, primarily due to a $105 million increase in third-party community support personnel and customer relations costs, a $25 million increase in payroll-related expenses primarily due to growth in headcount and increased compensation costs, and a $16 million increase in insurance costs due to higher Host Liability Insurance premiums resulting from higher overall nights."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's product development expense in 2023 compared to 2022?",
+    "answer": "15%",
+    "context": "Product development expense increased $220 million, or 15%, in 2023, compared to 2022, primarily due to a $217 million increase in payroll-related expenses due to growth in headcount and increased compensation costs."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's sales and marketing expense in 2023 compared to 2022?",
+    "answer": "16%",
+    "context": "Sales and marketing expense increased $247 million, or 16%, in 2023, compared to 2022, primarily due to a $177 million increase in marketing activities associated with our marketing campaigns and launches and our search engine marketing and advertising spend, and a $54 million increase in payroll-related expenses due to growth in headcount and increased compensation costs."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's general and administrative expense in 2023 compared to 2022?",
+    "answer": "113%",
+    "context": "General and administrative expense increased $1.1 billion, or 113%, in 2023, compared to 2022, primarily due to an increase of $991 million related to business and operational taxes, the majority of which is non-recurring, and a $93 million increase in payroll related expenses partially offset by a reduction in insurance expense of $18 million driven by reduced directors and officers insurance premiums."
+  },
+  {
+    "question": "By what percentage did Airbnb's revenue increase on a constant-currency basis in 2023 compared to 2022?",
+    "answer": "17%",
+    "context": "Revenue increased $1.5 billion, or 18%, in 2023 compared to 2022, primarily due to a 14% increase in Nights and Experiences Booked combined with higher ADRs. On a constant-currency basis, revenue increased 17% compared to 2022, due to a weakened U.S. dollar against the Euro and British Pound."
+  },
+  {
+    "question": "What was the amount of Airbnb's restructuring charges in 2022?",
+    "answer": "$89 million",
+    "context": "In the second quarter of 2022, we shifted to a remote work model, allowing our employees to work from anywhere in the country. The shift to a remote work model was in direct response to the change in how employees work due to the impact of COVID-19. As a result, we recorded restructuring charges of $89 million during 2022, which included $81 million relating to an impairment of both domestic and international operating lease right-of-use assets, and $8 million of related leasehold improvements."
+  },
+  {
+    "question": "How much did Airbnb's interest income increase in 2023 compared to 2022?",
+    "answer": "$535 million",
+    "context": "Interest income increased $535 million, or 288%, in 2023 compared to 2022, primarily due to higher cash and investment balances and higher interest rates. Our investment portfolio was largely invested in money market funds and short-term, high-quality bonds."
+  },
+  {
+    "question": "What was the total amount Airbnb repurchased shares of Class A common stock for in 2023?",
+    "answer": "$2.3 billion",
+    "context": "During 2023, we repurchased an aggregate of 17.9 million shares of Class A common stock for $2.3 billion, through two share repurchase programs."
+  },
+  {
+    "question": "What was the amount of Airbnb's valuation allowance released in 2023 related to U.S. deferred tax assets?",
+    "answer": "$2.9 billion",
+    "context": "We released $2.9 billion of our valuation allowance in 2023 and will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's Adjusted EBITDA in 2023 compared to 2022?",
+    "answer": "26%",
+    "context": "Adjusted EBITDA increased 26% to $3.7 billion in 2023 demonstrating the continued strength of our business, a modest increase in ADR, and discipline in managing our cost structure."
+  },
+  {
+    "question": "What primarily drove the increase in Airbnb's Free Cash Flow in 2023 compared to the prior year?",
+    "answer": "Growth in revenue, unearned fees and net income",
+    "context": "We generated Free Cash Flow of $3.8 billion for the year ended December 31, 2023, compared to $3.4 billion, in the prior year. The increase was primarily driven by growth in revenue, unearned fees and net income."
+  },
+  {
+    "question": "Despite the COVID-19 pandemic ending, what factors may still negatively impact Airbnb's future operational results?",
+    "answer": "Further health-related events, political instability, geopolitical conflicts, acts of terrorism, significant fluctuations in currency values, sustained levels of increased inflation, sovereign debt issues, and natural disasters",
+    "context": "Additionally, further health-related events, political instability, geopolitical conflicts, acts of terrorism, significant fluctuations in currency values, sustained levels of increased inflation, sovereign debt issues, and natural disasters, are examples of other events that could have a negative impact on the travel industry in the future."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's GBV per Night and Experience Booked in 2023 compared to the prior year?",
+    "answer": "2%",
+    "context": "We saw a 2% increase in GBV per Night and Experience Booked in 2023 compared to the prior year, primarily due to higher GBV per Night and Experience Booked in EMEA, which increased from $127.99 to $140.40."
+  },
+  {
+    "question": "By what percentage did Airbnb's total Company average nights per booking, excluding experiences, decrease in 2023 compared to the prior year?",
+    "answer": "4%",
+    "context": "Our total Company average nights per booking, excluding experiences, decreased 4% in 2023 compared to the prior year, primarily due to our geographic mix and changes in traveler behaviors."
+  },
+  {
+    "question": "What was Airbnb's total average nights per booking in 2023?",
+    "answer": "3.9 nights",
+    "context": "Specifically, average nights per booking in 2023 was 4.1 for North America, 3.9 for EMEA, 3.9 for Latin America, and 3.3 for Asia Pacific, with a total average of 3.9 nights."
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's net cash provided by operating activities in 2023?",
+    "answer": "Income from operations of $1.5 billion and interest income of $721 million from the investment portfolio",
+    "context": "Net cash provided by operating activities in 2023 was $3.9 billion, which was primarily due to income from operations of $1.5 billion and interest income of $721 million from our investment portfolio, adjusted for non-cash items including stock-based compensation expense of $1.1 billion."
+  },
+  {
+    "question": "What was the primary reason for Airbnb's net cash used in investing activities in 2023?",
+    "answer": "Purchases of short-term investments, partially offset by proceeds resulting from sales and maturities of short-term investments",
+    "context": "Net cash used in investing activities in 2023 was $1.0 billion, which was primarily due to purchases of short-term investments, partially offset by proceeds resulting from sales and maturities of short-term investments."
+  },
+  {
+    "question": "What was the amount of Airbnb's outstanding indebtedness as of December 31, 2023?",
+    "answer": "$2.0 billion",
+    "context": "As of December 31, 2023, we had outstanding $2.0 billion in aggregate principal amount of indebtedness of our 0% convertible senior notes due in 2026."
+  },
+  {
+    "question": "What was the cost of Airbnb's Capped Call transactions entered into on March 3, 2021?",
+    "answer": "Approximately $100 million",
+    "context": "On March 3, 2021, in connection with the pricing of the 2026 Notes, we entered into privately negotiated capped call transactions (the 'Capped Calls') with certain of the initial purchasers and other financial institutions (the 'option counterparties') at a cost of approximately $100 million."
+  },
+  {
+    "question": "What was the cap price per share of Class A common stock for Airbnb's Capped Call transactions?",
+    "answer": "$360.80",
+    "context": "The cap price of the Capped Calls was $360.80 per share of Class A common stock, which represented a premium of 100% over the last reported sale price of the Class A common stock of $180.40 per share on March 3, 2021, subject to certain customary adjustments under the terms of the Capped Call Transactions."
+  },
+  {
+    "question": "What was the total amount of Airbnb's minimum lease payments as of December 31, 2023?",
+    "answer": "$313 million",
+    "context": "As of December 31, 2023, our total minimum lease payments were $313 million, of which $81 million is due in the succeeding 12 months."
+  },
+  {
+    "question": "How much is Airbnb committed to spend or incur for vendor services through 2027 under a commercial agreement with a data hosting services provider?",
+    "answer": "At least $842 million",
+    "context": "We have a commercial agreement with a data hosting services provider to spend or incur an aggregate of at least $842 million for vendor services through 2027."
+  },
+  {
+    "question": "In February 2024, what amount did Airbnb's board of directors approve for an additional share repurchase program?",
+    "answer": "$6.0 billion",
+    "context": "In February 2024, our board of directors approved an additional share repurchase program to purchase up to $6.0 billion of our Class A common stock."
+  },
+  {
+    "question": "What were Airbnb's principal sources of liquidity as of December 31, 2023?",
+    "answer": "Cash, cash equivalents and short-term investments totaling $10.1 billion",
+    "context": "As of December 31, 2023, our principal sources of liquidity were cash, cash equivalents and short-term investments totaling $10.1 billion."
+  },
+  {
+    "question": "How much of Airbnb's cash and cash equivalents was held by foreign subsidiaries as of December 31, 2023?",
+    "answer": "$1.9 billion",
+    "context": "As of December 31, 2023, cash and cash equivalents totaled $6.9 billion, which included $1.9 billion held by our foreign subsidiaries."
+  },
+  {
+    "question": "What is the amount of funds Airbnb held for bookings in advance of guests completing check-ins as of December 31, 2023?",
+    "answer": "$5.9 billion",
+    "context": "These amounts do not include funds of $5.9 billion as of December 31, 2023, that we held for bookings in advance of guests completing check-ins that we record separately on our consolidated balance sheet in funds receivable and amounts held on behalf of customers with a corresponding liability in funds payable and amounts payable to customers."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's Free Cash Flow Margin in 2023 compared to 2022?",
+    "answer": "39%",
+    "context": "Free Cash Flow Margin is defined as Free Cash Flow divided by revenue. Free Cash Flow Margin 41% 39%"
+  },
+  {
+    "question": "What was the amount of Airbnb's net cash used in financing activities in 2023?",
+    "answer": "$2.4 billion",
+    "context": "Net cash used in financing activities in 2023 was $2.4 billion, primarily due to share repurchases of $2.3 billion, and an increase in taxes paid related to net share settlement of equity awards of $1.2 billion, primarily driven from the taxes paid related to the cashless exercise of stock options, partially offset by the decrease in funds payable and amounts payable to customers of $936 million."
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's net cash used in financing activities in 2023 compared to 2022?",
+    "answer": "Share repurchases of $2.3 billion and an increase in taxes paid related to net share settlement of equity awards of $1.2 billion",
+    "context": "Net cash used in financing activities in 2023 was $2.4 billion, primarily due to share repurchases of $2.3 billion, and an increase in taxes paid related to net share settlement of equity awards of $1.2 billion, primarily driven from the taxes paid related to the cashless exercise of stock options, partially offset by the decrease in funds payable and amounts payable to customers of $936 million."
+  },
+  {
+    "question": "What was the effect of exchange rate changes on Airbnb's cash, cash equivalents, and restricted cash in 2023?",
+    "answer": "An increase of $152 million",
+    "context": "During 2023, we recorded an increase of $152 million in cash, cash equivalents, and restricted cash, primarily due to the weakening of the U.S. dollar."
+  },
+  {
+    "question": "What is Airbnb's belief regarding its ability to generate cash to fund its short-term cash requirements?",
+    "answer": "The cash flows generated from operating activities will meet Airbnb's anticipated cash requirements in the short-term",
+    "context": "We assess our liquidity in terms of our ability to generate cash to fund our short- and long-term cash requirements. As such, we believe that the cash flows generated from operating activities will meet our anticipated cash requirements in the short-term."
+  },
+  {
+    "question": "What factors could Airbnb's future capital requirements depend on?",
+    "answer": "Growth, headcount, ability to attract and retain customers on the platform, introduction of new products and offerings, timing and extent of spending to support efforts to develop the platform, debt repayments, and expansion of sales and marketing activities",
+    "context": "Our future capital requirements, however, will depend on many factors, including, but not limited to our growth, headcount, and ability to attract and retain customers on our platform. Additionally, we may in the future raise additional capital or incur additional indebtedness to continue to fund our strategic initiatives."
+  },
+  {
+    "question": "What could materially adversely affect Airbnb's business, results of operations, and financial condition?",
+    "answer": "If Airbnb is unable to raise additional capital when desired and at reasonable rates",
+    "context": "If we are unable to raise additional capital when desired and at reasonable rates, our business, results of operations, and financial condition could be materially adversely affected."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's Nights and Experiences Booked in EMEA in 2023 compared to 2022?",
+    "answer": "11%",
+    "context": "Nights and Experiences Booked in EMEA increased from 168 million in 2022 to 187 million in 2023, representing an 11% increase."
+  },
+  {
+    "question": "What percentage of Airbnb's total revenue did North America account for in 2023?",
+    "answer": "47%",
+    "context": "In 2023, North America accounted for $4,638 million or 47% of Airbnb's total revenue of $9,917 million."
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's interest expense in 2023 compared to 2022?",
+    "answer": "Non-recurring interest paid relating to withholding tax payments on behalf of Hosts",
+    "context": "Interest expense increased $59 million or 246%, in 2023 compared to 2022, primarily due to non-recurring interest paid relating to withholding tax payments on behalf of Hosts."
+  },
+  {
+    "question": "What was the amount of Airbnb's commitments under the 2022 Credit Facility as of December 31, 2023?",
+    "answer": "$1.0 billion",
+    "context": "We have access to $1.0 billion of commitments and a $200 million sub-limit for the issuance of letters of credit under the 2022 Credit Facility."
+  },
+  {
+    "question": "What was the amount of Airbnb's outstanding letters of credit as of December 31, 2023?",
+    "answer": "$29 million",
+    "context": "As of December 31, 2023, no amounts were drawn under the 2022 Credit Facility and outstanding letters of credit totaled $29 million."
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's Free Cash Flow in 2023 compared to 2022?",
+    "answer": "Increased income from operations and interest income driven by increased interest rates on higher cash balances",
+    "context": "The increase in Free Cash Flow for the year ended December 31, 2023, compared to the prior year, was primarily driven by increased income from operations and interest income driven by increased interest rates on higher cash balances."
+  },
+  {
+    "question": "What was the amount of Airbnb's income tax benefit in 2023?",
+    "answer": "$2,690 million",
+    "context": "The income tax benefit in 2023, was primarily due to the release of $2.9 billion of our valuation allowance related to our U.S. deferred tax assets."
+  },
+  {
+    "question": "What was Airbnb's effective tax rate in 2023?",
+    "answer": "-128%",
+    "context": "Airbnb's effective tax rate was -128% in 2023."
+  },
+  {
+    "question": "What factors can affect Airbnb's potential obligation for collecting and remitting lodging taxes?",
+    "answer": "Whether Airbnb determines, or any tax authority asserts, that it has a responsibility to collect lodging and related taxes on either historic or future transactions; the introduction of new ordinances and taxes which subject its operations to such taxes; or the ultimate resolution of any historic claims that may be settled through negotiation",
+    "context": "A variety of factors could affect our potential obligation for collecting and remitting such taxes, which include, but are not limited to, whether we determine, or any tax authority asserts, that we have a responsibility to collect lodging and related taxes on either historic or future transactions; the introduction of new ordinances and taxes which subject our operations to such taxes; or the ultimate resolution of any historic claims that may be settled through negotiation."
+  },
+  {
+    "question": "What was the primary reason for the decrease in Airbnb's other income (expense), net in 2023 compared to 2022?",
+    "answer": "Foreign exchange losses",
+    "context": "Other income (expense), net decreased $79 million in 2023 compared to 2022, primarily due to foreign exchange losses."
+  },
+  {
+    "question": "What was Airbnb's Adjusted EBITDA Margin in 2023?",
+    "answer": "37%",
+    "context": "Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by revenue. Adjusted EBITDA Margin 35% 37%"
+  },
+  {
+    "question": "What are the limitations of using Adjusted EBITDA as a financial measure?",
+    "answer": "It does not reflect interest income, interest expense, and other income (expense), net; excludes certain recurring, non-cash charges; excludes stock-based compensation expense; excludes acquisition-related impacts; does not reflect net changes to reserves for lodging taxes; and does not reflect restructuring charges",
+    "context": "Adjusted EBITDA has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for the related financial information prepared in accordance with U.S. GAAP. These limitations include: it does not reflect interest income, interest expense, and other income (expense), net; excludes certain recurring, non-cash charges; excludes stock-based compensation expense; excludes acquisition-related impacts; does not reflect net changes to reserves for lodging taxes; and does not reflect restructuring charges."
+  },
+  {
+    "question": "What was the amount of Airbnb's stock-based compensation expense in 2023?",
+    "answer": "$1,120 million",
+    "context": "Stock-based compensation expense $930 $1,120"
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's net income in 2023?",
+    "answer": "The release of $2.9 billion of the valuation allowance related to U.S. deferred tax assets",
+    "context": "The income tax benefit in 2023, was primarily due to the release of $2.9 billion of our valuation allowance related to our U.S. deferred tax assets."
+  },
+  {
+    "question": "What is Airbnb's plan regarding monitoring the need for a valuation allowance against its deferred tax assets?",
+    "answer": "Airbnb will continue to monitor the need for a valuation allowance against its deferred tax assets on a quarterly basis",
+    "context": "We released $2.9 billion of our valuation allowance in 2023 and will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis."
+  },
+  {
+    "question": "What was the amount of Airbnb's net cash used in investing activities in 2022?",
+    "answer": "$28 million",
+    "context": "Net cash used in investing activities in 2022 was $28 million, which was primarily due to purchases of short-term investments and property and equipment of $4.1 billion and $25 million, respectively, partially offset by proceeds from sales and maturities of short-term investments of $4.1 billion."
+  },
+  {
+    "question": "What was the primary reason for Airbnb's net cash used in financing activities in 2022?",
+    "answer": "Share repurchases of $1.5 billion under share repurchase programs and an increase in the taxes paid related to net share settlement of equity awards of $607 million",
+    "context": "Net cash used in financing activities in 2022 was $689 million, primarily due to share repurchases of $1.5 billion under our share repurchase programs, and an increase in the taxes paid related to net share settlement of equity awards of $607 million, partially offset by an increase in funds payable and amounts payable to customers of $1.3 billion resulting from significantly higher bookings."
+  },
+  {
+    "question": "What was the amount of Airbnb's net cash provided by operating activities in 2022?",
+    "answer": "$3.4 billion",
+    "context": "Net cash provided by operating activities in 2022 was $3.4 billion, which was primarily due to income from operations of $1.8 billion, adjusted for non-cash items, primarily consisting of $930 million of stock-based compensation expense, impairment of long-lived assets of $91 million, and $62 million of foreign exchange losses due to the strengthening of the U.S. dollar against the Euro and British Pound."
+  },
+  {
+    "question": "What was the effect of exchange rate changes on Airbnb's cash, cash equivalents, and restricted cash in 2022?",
+    "answer": "A reduction of $337 million",
+    "context": "During 2022, we recorded a reduction of $337 million in cash, cash equivalents, and restricted cash, primarily due to the strengthening of the U.S. dollar."
+  },
+  {
+    "question": "What are the short-term investments that Airbnb's short-term investment portfolio primarily consists of?",
+    "answer": "Highly-liquid investment grade corporate debt securities, time deposits, commercial paper, certificates of deposit, U.S. government and government agency debt securities, and mortgage-backed and asset-backed securities",
+    "context": "Short-term investments primarily consist of highly-liquid investment grade corporate debt securities, time deposits, commercial paper, certificates of deposit, U.S. government and government agency debt securities ('government bonds'), and mortgage-backed and asset-backed securities."
+  },
+  {
+    "question": "What percentage of Airbnb's total Nights and Experiences Booked did North America account for in 2023?",
+    "answer": "33%",
+    "context": "In 2023, North America accounted for 146 million or 33% of Airbnb's total Nights and Experiences Booked of 448 million."
+  },
+  {
+    "question": "What percentage of Airbnb's total Gross Booking Value did EMEA account for in 2023?",
+    "answer": "36%",
+    "context": "In 2023, EMEA accounted for $26,241 million or 36% of Airbnb's total Gross Booking Value of $73,252 million."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's revenue in Asia Pacific in 2023 compared to 2022?",
+    "answer": "35%",
+    "context": "Revenue in Asia Pacific increased from $622 million in 2022 to $840 million in 2023, representing a 35% increase."
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's cost of revenue in 2023 compared to 2022?",
+    "answer": "An increase in merchant fees and chargebacks due to an increase in pay-in volumes, and an increase in cloud computing costs due to increased server and data storage usage",
+    "context": "Cost of revenue increased $204 million, or 14%, in 2023 compared to 2022, primarily due to an increase in merchant fees and chargebacks of $163 million and $10 million, respectively, due to an increase in pay-in volumes, and an increase in cloud computing costs of $31 million due to increased server and data storage usage."
+  },
+  {
+    "question": "What was the primary reason for the increase in Airbnb's operations and support expense in 2023 compared to 2022?",
+    "answer": "An increase in third-party community support personnel and customer relations costs, an increase in payroll-related expenses, and an increase in insurance costs",
+    "context": "Operations and support expense increased $145 million, or 14%, in 2023 compared to 2022, primarily due to a $105 million increase in third-party community support personnel and customer relations costs, a $25 million increase in payroll-related expenses primarily due to growth in headcount and increased compensation costs."
+  },
+  {
+    "question": "What was the amount of Airbnb's impairment of long-lived assets in 2022?",
+    "answer": "$91 million",
+    "context": "Net cash provided by operating activities in 2022 was $3.4 billion, which was primarily due to income from operations of $1.8 billion, adjusted for non-cash items, primarily consisting of $930 million of stock-based compensation expense, impairment of long-lived assets of $91 million, and $62 million of foreign exchange losses due to the strengthening of the U.S. dollar against the Euro and British Pound."
+  },
+  {
+    "question": "What was the amount of Airbnb's foreign exchange losses in 2022 due to the strengthening of the U.S. dollar against the Euro and British Pound?",
+    "answer": "$62 million",
+    "context": "Net cash provided by operating activities in 2022 was $3.4 billion, which was primarily due to income from operations of $1.8 billion, adjusted for non-cash items, primarily consisting of $930 million of stock-based compensation expense, impairment of long-lived assets of $91 million, and $62 million of foreign exchange losses due to the strengthening of the U.S. dollar against the Euro and British Pound."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total Gross Booking Value that Latin America accounted for in 2023?",
+    "answer": "8%",
+    "context": "In 2023, Latin America accounted for $6,054 million or 8% of Airbnb's total Gross Booking Value of $73,252 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total revenue that Asia Pacific accounted for in 2023?",
+    "answer": "9%",
+    "context": "In 2023, Asia Pacific accounted for $840 million or 9% of Airbnb's total revenue of $9,917 million."
+  },
+  {
+    "question": "What was the amount of Airbnb's increase in payroll-related expenses in the product development expense category in 2023 compared to 2022?",
+    "answer": "$217 million",
+    "context": "Product development expense increased $220 million, or 15%, in 2023, compared to 2022, primarily due to a $217 million increase in payroll-related expenses due to growth in headcount and increased compensation costs."
+  },
+  {
+    "question": "What was the amount of Airbnb's increase in marketing activities associated with marketing campaigns and launches and search engine marketing and advertising spend in 2023 compared to 2022?",
+    "answer": "$177 million",
+    "context": "Sales and marketing expense increased $247 million, or 16%, in 2023, compared to 2022, primarily due to a $177 million increase in marketing activities associated with our marketing campaigns and launches and our search engine marketing and advertising spend, and a $54 million increase in payroll-related expenses due to growth in headcount and increased compensation costs."
+  },
+  {
+    "question": "What was the amount of Airbnb's increase in business and operational taxes in 2023 compared to 2022, the majority of which was non-recurring?",
+    "answer": "$991 million",
+    "context": "General and administrative expense increased $1.1 billion, or 113%, in 2023, compared to 2022, primarily due to an increase of $991 million related to business and operational taxes, the majority of which is non-recurring, and a $93 million increase in payroll related expenses partially offset by a reduction in insurance expense of $18 million driven by reduced directors and officers insurance premiums."
+  },
+  {
+    "question": "What was the amount of Airbnb's reduction in insurance expense in 2023 compared to 2022, driven by reduced directors and officers insurance premiums?",
+    "answer": "$18 million",
+    "context": "General and administrative expense increased $1.1 billion, or 113%, in 2023, compared to 2022, primarily due to an increase of $991 million related to business and operational taxes, the majority of which is non-recurring, and a $93 million increase in payroll related expenses partially offset by a reduction in insurance expense of $18 million driven by reduced directors and officers insurance premiums."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's stock-based compensation expense in the product development category in 2023 compared to 2022?",
+    "answer": "27%",
+    "context": "Stock-based compensation expense in the product development category increased from $548 million in 2022 to $694 million in 2023, representing a 27% increase."
+  },
+  {
+    "question": "What was the amount of Airbnb's increase in payroll-related expenses in the sales and marketing expense category in 2023 compared to 2022?",
+    "answer": "$54 million",
+    "context": "Sales and marketing expense increased $247 million, or 16%, in 2023, compared to 2022, primarily due to a $177 million increase in marketing activities associated with our marketing campaigns and launches and our search engine marketing and advertising spend, and a $54 million increase in payroll-related expenses due to growth in headcount and increased compensation costs."
+  },
+  {
+    "question": "What was the amount of Airbnb's increase in payroll-related expenses in the general and administrative expense category in 2023 compared to 2022?",
+    "answer": "$93 million",
+    "context": "General and administrative expense increased $1.1 billion, or 113%, in 2023, compared to 2022, primarily due to an increase of $991 million related to business and operational taxes, the majority of which is non-recurring, and a $93 million increase in payroll related expenses partially offset by a reduction in insurance expense of $18 million driven by reduced directors and officers insurance premiums."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total Nights and Experiences Booked that EMEA accounted for in 2023?",
+    "answer": "42%",
+    "context": "In 2023, EMEA accounted for 187 million or 42% of Airbnb's total Nights and Experiences Booked of 448 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total Nights and Experiences Booked that Latin America accounted for in 2023?",
+    "answer": "14%",
+    "context": "In 2023, Latin America accounted for 64 million or 14% of Airbnb's total Nights and Experiences Booked of 448 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total Nights and Experiences Booked that Asia Pacific accounted for in 2023?",
+    "answer": "11%",
+    "context": "In 2023, Asia Pacific accounted for 51 million or 11% of Airbnb's total Nights and Experiences Booked of 448 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total Gross Booking Value that North America accounted for in 2023?",
+    "answer": "48%",
+    "context": "In 2023, North America accounted for $34,941 million or 48% of Airbnb's total Gross Booking Value of $73,252 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total Gross Booking Value that Asia Pacific accounted for in 2023?",
+    "answer": "8%",
+    "context": "In 2023, Asia Pacific accounted for $6,016 million or 8% of Airbnb's total Gross Booking Value of $73,252 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total revenue that EMEA accounted for in 2023?",
+    "answer": "36%",
+    "context": "In 2023, EMEA accounted for $3,615 million or 36% of Airbnb's total revenue of $9,917 million."
+  },
+  {
+    "question": "What was the percentage of Airbnb's total revenue that Latin America accounted for in 2023?",
+    "answer": "8%",
+    "context": "In 2023, Latin America accounted for $824 million or 8% of Airbnb's total revenue of $9,917 million."
+  },
+  {
+    "question": "What was the average nights per booking for Airbnb in North America in 2023?",
+    "answer": "4.1",
+    "context": "Specifically, average nights per booking in 2023 was 4.1 for North America, 3.9 for EMEA, 3.9 for Latin America, and 3.3 for Asia Pacific, with a total average of 3.9 nights."
+  },
+  {
+    "question": "What was the average nights per booking for Airbnb in EMEA in 2023?",
+    "answer": "3.9",
+    "context": "Specifically, average nights per booking in 2023 was 4.1 for North America, 3.9 for EMEA, 3.9 for Latin America, and 3.3 for Asia Pacific, with a total average of 3.9 nights."
+  },
+  {
+    "question": "What was the average nights per booking for Airbnb in Latin America in 2023?",
+    "answer": "3.9",
+    "context": "Specifically, average nights per booking in 2023 was 4.1 for North America, 3.9 for EMEA, 3.9 for Latin America, and 3.3 for Asia Pacific, with a total average of 3.9 nights."
+  },
+  {
+    "question": "What was the average nights per booking for Airbnb in Asia Pacific in 2023?",
+    "answer": "3.3",
+    "context": "Specifically, average nights per booking in 2023 was 4.1 for North America, 3.9 for EMEA, 3.9 for Latin America, and 3.3 for Asia Pacific, with a total average of 3.9 nights."
+  },
+  {
+    "question": "What does Airbnb expect regarding its blended global average nights per booking going forward?",
+    "answer": "It will continue to fluctuate based on geographic mix and changes in traveler behaviors",
+    "context": "We expect that our blended global average nights per booking will continue to fluctuate based on our geographic mix and changes in traveler behaviors."
+  },
+  {
+    "question": "What was the amount of Airbnb's stock-based compensation expense in the operations and support category in 2023?",
+    "answer": "$68 million",
+    "context": "Stock-based compensation expense in the operations and support category was $68 million in 2023."
+  },
+  {
+    "question": "What was the amount of Airbnb's stock-based compensation expense in the sales and marketing category in 2023?",
+    "answer": "$130 million",
+    "context": "Stock-based compensation expense in the sales and marketing category was $130 million in 2023."
+  },
+  {
+    "question": "What was the amount of Airbnb's stock-based compensation expense in the general and administrative category in 2023?",
+    "answer": "$228 million",
+    "context": "Stock-based compensation expense in the general and administrative category was $228 million in 2023."
+  },
+  {
+    "question": "What was the percentage increase in Airbnb's stock-based compensation expense in 2023 compared to 2022?",
+    "answer": "20%",
+    "context": "Stock-based compensation expense increased from $930 million in 2022 to $1,120 million in 2023, representing a 20% increase."
+  }
+]
