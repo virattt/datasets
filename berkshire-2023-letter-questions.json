@@ -5,148 +5,548 @@
     "context": "Charlie Munger died on November 28, just 33 days before his 100th birthday."
   },
   {
-    "question": "At what age did Warren Buffett first meet Charlie Munger?",
-    "answer": "35",
-    "context": "Consequently, it was not until 1959 when he was 35 that I first met him."
+    "question": "How much of his life did Munger spend outside Omaha?",
+    "answer": "80%",
+    "context": "Though born and raised in Omaha, he spent 80% of his life domiciled elsewhere."
   },
   {
-    "question": "What year did Charlie Munger start his money management career?",
+    "question": "What year did Charlie Munger decide to take up money management?",
     "answer": "1962",
     "context": "In 1962, he decided that he should take up money management."
   },
   {
-    "question": "What advice did Charlie Munger give Warren Buffett about running Berkshire?",
-    "answer": "add to it wonderful businesses purchased at fair prices and give up buying fair businesses at wonderful prices",
-    "context": "\"Warren, forget about ever buying another company like Berkshire. But now that you control Berkshire, add to it wonderful businesses purchased at fair prices and give up buying fair businesses at wonderful prices."
+    "question": "What was Charlie Munger's recommendation to Warren about Berkshire in 1965?",
+    "answer": "Forget about ever buying another company like Berkshire, add to it wonderful businesses purchased at fair prices.",
+    "context": "Nevertheless, Charlie, in 1965, promptly advised me: \"Warren, forget about ever buying another company like Berkshire. But now that you control Berkshire, add to it wonderful businesses purchased at fair prices and give up buying fair businesses at wonderful prices."
   },
   {
-    "question": "How many shareholder accounts does Berkshire Hathaway have?",
+    "question": "How did Munger contribute to Warren's decision-making on bad habits?",
+    "answer": "He repeatedly jerked Warren back to sanity when his old habits surfaced.",
+    "context": "Many years later, Charlie became my partner in running Berkshire and, repeatedly, jerked me back to sanity when my old habits surfaced."
+  },
+  {
+    "question": "Why did Charlie Munger never seek credit for his role in Berkshire?",
+    "answer": "He let Warren take the bows and receive the accolades, maintaining a relationship part older brother, part loving father.",
+    "context": "Charlie never sought to take credit for his role as creator but instead let me take the bows and receive the accolades. In a way his relationship with me was part older brother, part loving father."
+  },
+  {
+    "question": "How many shareholder accounts does Berkshire Hathaway Inc. have?",
     "answer": "more than three million",
     "context": "Berkshire has more than three million shareholder accounts."
   },
   {
-    "question": "Who is considered the 'architect' of the present Berkshire according to the text?",
-    "answer": "Charlie",
-    "context": "In reality, Charlie was the \"architect\" of the present Berkshire, and I acted as the \"general contractor\" to carry out the day-by-day construction of his vision."
+    "question": "What is the target audience for Warren Buffett's annual letters to Berkshire shareholders?",
+    "answer": "investors who trust Berkshire with their savings without any expectation of resale",
+    "context": "At Berkshire, we have a more limited target: investors who trust Berkshire with their savings without any expectation of resale."
   },
   {
-    "question": "What does Berkshire Hathaway exclude from its preferred earnings figures?",
-    "answer": "unrealized capital gains or losses",
-    "context": "The primary  difference between the mandated figures and the ones Berkshire prefers is that  we exclude unrealized capital gains or losses that at times can exceed $5 billion a day."
+    "question": "How does Warren Buffett view his sister, Bertie, in the context of Berkshire's shareholders?",
+    "answer": "as the perfect mental model",
+    "context": "In visualizing the owners that Berkshire  seeks, I am lucky to have the perfect mental model,  my sister, Bertie."
   },
   {
-    "question": "What is Berkshire Hathaway's primary business goal?",
-    "answer": "to own either all or a portion of businesses that enjoy good economics that are fundamental and enduring",
+    "question": "What traits does Bertie possess according to Warren Buffett?",
+    "answer": "smart, wise, likes to challenge Warren's thinking, and very sensible",
+    "context": "For openers, Bertie is smart, wise and likes to challenge my thinking... She is sensible - very sensible - instinctively knowing that pundits should always  be ignored."
+  },
+  {
+    "question": "What is the main concern Bertie has when sharing her insights?",
+    "answer": "Bertie is concerned that sharing her valuable insights would increase competitive buying, making it counterproductive.",
+    "context": "After all, if she could reliably predict tomorrow's winners, would she freely share her valuable insights and thereby increase competitive buying? That would be like finding gold and then handing a map to the neighbors showing its location."
+  },
+  {
+    "question": "What kind of earnings does Berkshire prefer to report and why?",
+    "answer": "Berkshire prefers to report \"operating earnings\" because they exclude unrealized capital gains or losses, which they find to be a more sensible concept for evaluating a business.",
+    "context": "Accordingly, Berkshire also reports to Bertie and you what we call \"operating earnings.\" Here is the story they tell: $27.6 billion for 2021; $30.9 billion for 2022 and  $37.4 billion for 2023. The primary  difference between the mandated figures and the ones Berkshire prefers is that  we exclude unrealized capital gains or losses that at times can exceed $5 billion a day ."
+  },
+  {
+    "question": "What lesson should have been learned from Galileo's experience in relation to mandates?",
+    "answer": "Galileo's experience should have taught not to mess with mandates from on high.",
+    "context": "Galileo's experience, several centuries ago, should have taught us not to mess with mandates from on high. But, at Berkshire, we can be stubborn."
+  },
+  {
+    "question": "Why does Bertie read four newspapers daily?",
+    "answer": "Bertie reads four newspapers daily because she follows business news.",
+    "context": "She follows business news - reading four newspapers daily - but doesn't consider herself an economic expert."
+  },
+  {
+    "question": "What is Bertie's perspective on pundits?",
+    "answer": "Bertie believes that pundits should always be ignored.",
+    "context": "She is sensible - very sensible - instinctively knowing that pundits  should always  be ignored."
+  },
+  {
+    "question": "What does the official annual report's 'Net earnings (loss)' figures for 2021 to 2023 indicate?",
+    "answer": "The 'Net earnings (loss)' figures indicate $90 billion for 2021, ($23 billion) for 2022, and $96 billion for 2023.",
+    "context": "Among its disclosures many owners, along with financial reporters, will focus on page  K-72. There, they will find the proverbial \"bottom line\" labeled \"Net earnings (loss).\" The numbers read $90 billion for 2021, ($23 billion) for 2022 and $96 billion for 2023."
+  },
+  {
+    "question": "What organizations are responsible for auditing and mandating the financial procedures for calculating earnings mentioned in the text?",
+    "answer": "The Financial Accounting Standards Board (\"FASB\"), the Securities and Exchange Commission (\"SEC\"), and Deloitte & Touche (\"D&T\") are responsible for auditing and mandating the financial procedures for calculating earnings.",
+    "context": "You seek guidance and are told that the procedures for calculating these \"earnings\" are  promulgated by a sober and credentialed Financial Accounting Standards Board (\"FASB\"), mandated by a dedicated and hard-working Securities and Exchange Commission (\"SEC\") and audited by the world-class professionals at Deloitte & Touche (\"D&T\")."
+  },
+  {
+    "question": "What significant financial metric does Berkshire Hathaway look forward to in future?",
+    "answer": "Berkshire Hathaway looks forward to capital gains being a very important component of its value accretion in the future.",
+    "context": "Make no mistake about the significance of capital gains: I expect them to be a very  important component of Berkshire's value accretion during the decades ahead."
+  },
+  {
+    "question": "What major difference does Warren Buffet mention between the present and his first stock purchase date?",
+    "answer": "The Dow Jones Industrial Average has significantly increased from below 100 on the date of his first purchase to around 38,000.",
+    "context": "The Dow Jones Industrial Average fell below 100 on that fateful day in 1942 when I \"pulled the trigger.\" I was down about $5 by the time school was out. Soon, things turned around and now that index hovers around 38,000."
+  },
+  {
+    "question": "Why does the text mention that the 'net income' figure is worse-than-useless?",
+    "answer": "Because, despite being officially audited and reported, the 'net income' figure does not offer a sensible basis for evaluating a business, leading to discomfort in its use.",
+    "context": "So sanctified, this worse-than-useless \"net income\" figure quickly gets transmitted  throughout the world via the internet and media. All parties believe they have done their job - and, legally, they have.  We, however, are left uncomfortable."
+  },
+  {
+    "question": "How has America been for investors according to the text?",
+    "answer": "America has been a terrific country for investors.",
+    "context": "America has been a terrific country for investors. All they have needed to do is sit quietly, listening to no one."
+  },
+  {
+    "question": "What does the text say about making judgments based on Berkshire's investment value?",
+    "answer": "It is more than silly to make judgments based on earnings that incorporate the capricious movements of the stock market.",
+    "context": "It is more than silly, however, to make judgments about Berkshire's investment value based on \"earnings\" that incorporate the capricious day-by-day and, yes, even year-by-year movements of the stock market."
+  },
+  {
+    "question": "What kind of businesses does Berkshire aim to own?",
+    "answer": "Berkshire wants to own businesses that enjoy good economics that are fundamental and enduring.",
     "context": "Our goal at Berkshire is simple: We want to own either all or a portion of businesses that enjoy good economics that are fundamental and enduring."
   },
   {
-    "question": "What financial principle has Berkshire Hathaway always aimed to avoid?",
-    "answer": "Never  risk permanent loss  of capital",
-    "context": "One investment rule at Berkshire has not and will not change: Never  risk permanent loss  of capital."
+    "question": "What is Berkshire's preference regarding future capital deployment?",
+    "answer": "Berkshire particularly favors the rare enterprise that can deploy additional capital at high returns in the future.",
+    "context": "At Berkshire, we particularly favor the rare enterprise that can deploy additional capital at high returns in the future."
   },
   {
-    "question": "What are two of Berkshire's long-duration partial-ownership positions mentioned?",
-    "answer": "Coca-Cola and American Express",
-    "context": "Non-controlled Businesses That Leave Us Comfortable Last year I mentioned two of Berkshire's long-duration partial-ownership  positions - Coca-Cola and American Express."
+    "question": "How does the text describe people's ability to predict winners and losers in business?",
+    "answer": "It's harder than you would think to predict which will be the winners and losers.",
+    "context": "Within capitalism, some businesses will flourish for a very long time while others will prove to be sinkholes. It's harder than you would think to predict which will be the winners and losers."
   },
   {
-    "question": "What is the stated purpose behind Berkshire Hathaway's conservative financial practices?",
-    "answer": "Berkshire does not want to inflict permanent financial damage on Bertie or any of the individuals who have trusted them with their savings.",
+    "question": "What caution did Hugh McCulloch provide in his letter to national banks?",
+    "answer": "Never deal with a rascal under the expectation that you can prevent him from cheating you.",
+    "context": "In 1863, Hugh McCulloch, the first Comptroller of the United States, sent a letter to all national banks. His instructions included this warning: \"Never deal with a rascal under the expectation that you can prevent him from cheating you.\""
+  },
+  {
+    "question": "What led to Berkshire having the largest GAAP net worth recorded by any American business?",
+    "answer": "Record operating income and a strong stock market led to a yearend figure of $561 billion.",
+    "context": "Record operating income and a strong stock market led to a yearend figure of $561 billion."
+  },
+  {
+    "question": "How does Berkshire view issuing shares in terms of net worth?",
+    "answer": "Berkshire is highly averse to issuing shares, as issuing shares immediately juices net worth.",
+    "context": "Doubling our huge base is simply not possible within, say, a five-year period, particularly because we are highly averse to issuing shares (an act that immediately juices net worth)."
+  },
+  {
+    "question": "What challenge does Berkshire face regarding meaningful options for capital deployment outside the U.S.?",
+    "answer": "Outside the U.S., there are essentially no candidates that are meaningful options for capital deployment at Berkshire.",
+    "context": "Outside the U.S., there are essentially no candidates that are meaningful options for capital deployment at Berkshire."
+  },
+  {
+    "question": "What does the text reveal about Berkshire's performance expectations?",
+    "answer": "Berkshire has no possibility of eye-popping performance.",
+    "context": "All in all, we have no possibility of eye-popping performance."
+  },
+  {
+    "question": "What is firmly emphasized by the writer regarding treatment towards employees, communities, and suppliers?",
+    "answer": "While the writer emphasizes treating employees, communities, and suppliers well, the highest allegiance is always to the country and shareholders.",
+    "context": "While we emphasize treating our employees, communities and suppliers well - who wouldn't wish to do so? - our allegiance will always be to our country and our shareholders."
+  },
+  {
+    "question": "What should Berkshire perform better than, according to the text?",
+    "answer": "Berkshire should do a bit better than the average American corporation.",
+    "context": "With that focus, and with our present mix of businesses, Berkshire should do a bit better than the average American corporation and, more important, should also operate with materially less risk of permanent loss of capital."
+  },
+  {
+    "question": "What kind of opportunities might arise for Berkshire due to market and/or economy conditions?",
+    "answer": "Occasionally, mispricing of stocks and bonds of large and fundamentally good businesses might offer Berkshire a large-scale opportunity.",
+    "context": "Occasionally, markets and/or the economy will cause stocks and bonds of some large and fundamentally good businesses to be strikingly mispriced."
+  },
+  {
+    "question": "What has led to more casino-like behavior in markets now compared to the past?",
+    "answer": "Markets now exhibit far more casino-like behavior due to reasons such as the speed of communication, technological advances, and the fact that the stock market now resides in many homes, tempting occupants daily.",
+    "context": "For whatever reasons, markets now exhibit far more casino-like behavior than they did when I was young. The casino now resides in many homes and daily tempts the occupants."
+  },
+  {
+    "question": "What permanent investment rule does Berkshire follow?",
+    "answer": "Berkshire has the rule of never risking permanent loss of capital.",
+    "context": "One investment rule at Berkshire has not and will not change: Never risk permanent loss of capital."
+  },
+  {
+    "question": "How does Berkshire handle financial disasters, according to the text?",
+    "answer": "Berkshire can handle financial disasters of a magnitude beyond any heretofore experienced, and aims to function as an asset to the country during economic upsets.",
+    "context": "I believe Berkshire can handle financial disasters of a magnitude beyond any heretofore experienced. This ability is one we will not relinquish. When economic upsets occur, as they will, Berkshire's goal will be to function as an asset to the country - just as it was in a very minor way in 2008-9 - and to help extinguish the financial fire rather than to be among the many companies that, inadvertently or otherwise, ignited the conflagration."
+  },
+  {
+    "question": "What financial strategy does Berkshire adopt that is described in the text?",
+    "answer": "Berkshire practices extreme fiscal conservatism, which is a corporate pledge to those who have joined in ownership of Berkshire.",
+    "context": "Extreme fiscal conservatism is a corporate pledge we make to those who have joined us in ownership of Berkshire."
+  },
+  {
+    "question": "How does Berkshire prepare for economic crises?",
+    "answer": "Berkshire holds a cash and U.S. Treasury bill position far in excess of conventional wisdom, ensuring it is always prepared for economic paralyses.",
+    "context": "Your company also holds a cash and U.S. Treasury bill position far in excess of what conventional wisdom deems necessary. During the 2008 panic, Berkshire generated cash from operations and did not rely in any manner on commercial paper, bank lines or debt markets. We did not predict the time of an economic paralysis but we were always prepared for one."
+  },
+  {
+    "question": "What is Berkshire's stance on dividends and share repurchase?",
+    "answer": "Berkshire does not currently pay dividends, and its share repurchases are 100% discretionary.",
+    "context": "Berkshire does not currently pay dividends, and its share repurchases are 100% discretionary."
+  },
+  {
+    "question": "What does the text imply about Berkshire's structural strength and durability?",
+    "answer": "Berkshire is built to last, suggesting a strong and durable structure.",
+    "context": "But Berkshire does not want to inflict permanent financial damage - quotational shrinkage for extended periods can't be avoided - on Bertie or any of the individuals who have trusted us with their savings. Berkshire is built to last."
+  },
+  {
+    "question": "Who does Berkshire not want to inflict permanent financial damage on?",
+    "answer": "Bertie or any of the individuals who have trusted Berkshire with their savings.",
     "context": "But Berkshire does not want to inflict permanent financial damage - quotational shrinkage for extended periods can't be avoided - on Bertie or any of the individuals who have trusted us with their savings."
   },
   {
-    "question": "How much of Berkshire Hathaway's GAAP net worth do Coca-Cola and American Express account for?",
-    "answer": "Each accounts for 4-5% of Berkshire's GAAP net worth.",
+    "question": "What percentage of Berkshire's GAAP net worth do Coca-Cola and American Express account for?",
+    "answer": "4-5%",
     "context": "Each only accounts for 4-5% of Berkshire's GAAP net worth."
   },
   {
-    "question": "What year did American Express begin operations?",
-    "answer": "1850",
-    "context": "American Express began operations in 1850."
+    "question": "When were American Express and Coca-Cola launched?",
+    "answer": "American Express in 1850 and Coca-Cola in 1886.",
+    "context": "American Express began operations in 1850, and Coca-Cola was launched in an Atlanta drug store in 1886."
   },
   {
-    "question": "What year was Coca-Cola launched?",
-    "answer": "1886",
-    "context": "Coca-Cola was launched in an Atlanta drug store in 1886."
+    "question": "How long has Berkshire's 'Rip Van Winkle slumber' lasted regarding their shares of AMEX and Coke as of 2023?",
+    "answer": "well over two decades",
+    "context": "During 2023, we did not buy or sell a share of either AMEX or Coke - extending our own Rip Van Winkle slumber that has now lasted well over two decades."
   },
   {
-    "question": "By what percentage did American Express's dividends increase in 2024?",
+    "question": "What increase in dividends is expected from AMEX in 2024?",
     "answer": "about 16%",
-    "context": "Both AMEX and Coke will almost certainly increase their dividends in 2024 - about 16% in the case of AMEX - and we will most certainly leave our holdings untouched throughout the year."
+    "context": "Both AMEX and Coke will almost certainly increase their dividends in 2024 - about 16% in the case of AMEX -"
   },
   {
-    "question": "How much of Occidental Petroleum's common shares did Berkshire own at yearend?",
+    "question": "By how much did Berkshire's indirect ownership of Coke and AMEX increase last year due to share repurchases at Berkshire?",
+    "answer": "a bit",
+    "context": "Though Berkshire did not purchase shares of either company in 2023, your indirect ownership of both Coke and AMEX increased a bit last year because of share repurchases we made at Berkshire."
+  },
+  {
+    "question": "What percentage of Occidental Petroleum's common shares did Berkshire own at the end of 2023?",
     "answer": "27.8%",
-    "context": "At yearend, Berkshire owned 27.8% of Occidental Petroleum's common shares and also owned warrants that, for more than five years, give us the option to materially increase our ownership at a fixed price."
+    "context": "At yearend, Berkshire owned 27.8% of Occidental Petroleum's common shares"
   },
   {
-    "question": "What notable advantage did the introduction of shale economics bring to the U.S.?",
-    "answer": "Shale economics became feasible in 2011, ending the U.S.'s energy dependency on OPEC and increasing domestic production to more than 13 million BOEPD.",
-    "context": "And then - Hallelujah! - shale economics became feasible in 2011, and our energy dependency ended. Now, U.S. production is more than 13 million BOEPD, and OPEC no longer has the upper hand."
+    "question": "What option does Berkshire have regarding its ownership of Occidental Petroleum?",
+    "answer": "the option to materially increase their ownership at a fixed price for more than five years",
+    "context": "owned warrants that, for more than five years, give us the option to materially increase our ownership at a fixed price."
   },
   {
-    "question": "What percentage of each of the five large Japanese companies does Berkshire now own?",
-    "answer": "about 9%",
+    "question": "What significant energy resource did the U.S. become dependent on in 2011 due to shale economics?",
+    "answer": "shale economics",
+    "context": "And then - Hallelujah! - shale economics became feasible in 2011, and our energy dependency ended."
+  },
+  {
+    "question": "What was the U.S. production level in 2007 compared to after the shale economics breakthrough?",
+    "answer": "five million BOEPD in 2007 and more than 13 million BOEPD after the breakthrough",
+    "context": "for a long time, the pessimism appeared to be correct, with production falling to five million BOEPD by 2007. Now, U.S. production is more than 13 million BOEPD"
+  },
+  {
+    "question": "What significant energy development occurred in 2011?",
+    "answer": "Shale economics became feasible in 2011.",
+    "context": "And then - Hallelujah! - shale economics became feasible in 2011, and our energy dependency ended."
+  },
+  {
+    "question": "How did the Strategic Petroleum Reserve (SPR) play a role in American energy self-sufficiency?",
+    "answer": "The SPR was created to alleviate, though not completely eliminate, the erosion of American self-sufficiency in energy.",
+    "context": "Meanwhile, the U.S. government created a Strategic Petroleum Reserve (\"SPR\") in 1975 to alleviate - though not come close to eliminating - this erosion of American self-sufficiency."
+  },
+  {
+    "question": "Under whose leadership has Occidental made significant contributions to its country and owners?",
+    "answer": "Under Vicki Hollub's leadership.",
+    "context": "Under Vicki Hollub's leadership, Occidental is doing the right things for both its country and its owners."
+  },
+  {
+    "question": "What is the status of Berkshire's investment in Japanese companies as of the end of the year?",
+    "answer": "Berkshire now owns about 9% of each of the five large Japanese companies.",
     "context": "Berkshire now owns about 9% of each of the five."
   },
   {
-    "question": "What was Berkshire Hathaway's operating earnings in 2023?",
+    "question": "What was the yearend market value of Berkshire's holdings in the five Japanese companies?",
+    "answer": "Y=2.9 trillion.",
+    "context": "Our cost for the five totals Y=1.6 trillion, and the yearend market value of the five was Y=2.9 trillion."
+  },
+  {
+    "question": "How has Berkshire benefited from the weakened yen?",
+    "answer": "The weakened yen has produced a yearend gain for Berkshire of $1.9 billion.",
+    "context": "The weakened yen has produced a yearend gain for Berkshire of $1.9 billion, a sum that, pursuant to GAAP rules, has periodically been recognized in income over the 2020-23 period."
+  },
+  {
+    "question": "What characterizes the policies of the five Japanese companies Berkshire is invested in, according to the text?",
+    "answer": "The policies are shareholder-friendly and superior to those customarily practiced in the U.S.",
+    "context": "In certain important ways, all five companies - Itochu, Marubeni, Mitsubishi, Mitsui and Sumitomo - follow shareholder-friendly policies that are much superior to those customarily practiced in the U.S."
+  },
+  {
+    "question": "When did Berkshire begin its Japanese purchases?",
+    "answer": "July 4, 2019.",
+    "context": "Our Japanese purchases began on July 4, 2019."
+  },
+  {
+    "question": "What was Berkshire's insurance-underwriting earnings in 2023?",
+    "answer": "$5,428 million.",
+    "context": "(in $ millions)   2023 2022  Insurance-underwriting ... $ 5,428 $ (30) "
+  },
+  {
+    "question": "What significant change in energy dynamics did the feasibility of shale economics bring in 2011?",
+    "answer": "U.S. energy dependency ended.",
+    "context": "And then - Hallelujah! - shale economics became feasible in 2011, and our energy dependency ended."
+  },
+  {
+    "question": "What was the insurance-underwriting income for 2023?",
+    "answer": "$5,428 million",
+    "context": "(in $ millions)   2023 2022  Insurance-underwriting ... $ 5,428 $ (30)  Insurance-investment income ... 9,567 6,484  Railroad ... 5,087 5,946  Utilities and energy ... 2,331 3,904  Other businesses and miscellaneous items ... 14,937 14,549  Operating earnings ... $37,350 $30,853"
+  },
+  {
+    "question": "How much did the insurance-investment income increase from 2022 to 2023?",
+    "answer": "$3,083 million",
+    "context": "(in $ millions)   2023 2022  Insurance-underwriting ... $ 5,428 $ (30)  Insurance-investment income ... 9,567 6,484  Railroad ... 5,087 5,946  Utilities and energy ... 2,331 3,904  Other businesses and miscellaneous items ... 14,937 14,549  Operating earnings ... $37,350 $30,853"
+  },
+  {
+    "question": "What were the operating earnings for 2023?",
     "answer": "$37,350 million",
-    "context": "Operating earnings ... $37,350 $30,853"
+    "context": "(in $ millions)   2023 2022  Insurance-underwriting ... $ 5,428 $ (30)  Insurance-investment income ... 9,567 6,484  Railroad ... 5,087 5,946  Utilities and energy ... 2,331 3,904  Other businesses and miscellaneous items ... 14,937 14,549  Operating earnings ... $37,350 $30,853"
   },
   {
-    "question": "What core business does Berkshire Hathaway credit for much of its well-being and growth?",
-    "answer": "Property-casualty insurance",
-    "context": "Property-casualty insurance (\"P/C\") provides the core of Berkshire's well-being and growth."
+    "question": "What date was Berkshire's annual gathering held in 2023?",
+    "answer": "May 6, 2023",
+    "context": "At Berkshire's annual gathering on May 6, 2023, I presented the first quarter's results  which had been released early that morning."
   },
   {
-    "question": "What model might certain utilities be forced to adopt due to changes in the industry?",
-    "answer": "Public-power model",
-    "context": "Whatever the case at Berkshire, the final result for the utility industry may be ominous: Certain utilities might no longer attract the savings of American citizens and will be forced to adopt the public-power model."
+    "question": "What percentage of operating earnings in 2022 was accounted for by BNSF and Berkshire Hathaway Energy (BHE)?",
+    "answer": "more than 30%",
+    "context": "(2) that  decline would be cushioned by decent results at our two largest non-insurance businesses, BNSF and Berkshire Hathaway Energy (\"BHE\") which, combined, had accounted for more than 30% of operating earnings in 2022"
   },
   {
-    "question": "Who has the final say on the utility model preferred in America?",
-    "answer": "Voters, taxpayers and users",
-    "context": "Eventually, voters, taxpayers and users will decide which model they prefer."
+    "question": "How much has BNSF spent over its GAAP depreciation charges since its purchase?",
+    "answer": "$22 billion",
+    "context": "At BNSF, the outlays in excess  of GAAP depreciation charges since our purchase 14 years  ago have totaled a staggering $22 billion or more than $1 1/2 billion annually."
   },
   {
-    "question": "What significant error did Warren Buffett admit to making regarding Berkshire's utility investments?",
-    "answer": "Not anticipating or considering the adverse developments in regulatory returns",
-    "context": "I did not anticipate or even consider the adverse developments in regulatory returns and, along with Berkshire's two partners at BHE, I made a costly mistake in not doing so."
+    "question": "What is the reported daily frequency of rail suicides in North America?",
+    "answer": "about once a day",
+    "context": "This trauma happens about once a day in North America; it is far more common in Europe and will always be with us."
   },
   {
-    "question": "Which sector of Berkshire Hathaway performed exceptionally well, setting records in sales, float, and underwriting profits?",
-    "answer": "The insurance business",
-    "context": "Our insurance business performed exceptionally well last year, setting records in sales, float and underwriting profits."
+    "question": "How many main track miles does BNSF have?",
+    "answer": "23,759 miles",
+    "context": "BNSF is the largest of six major rail systems that blanket North America. Our railroad  carries its 23,759 miles of main track, 99 tunnels, 13,495 bridges, 7,521 locomotives and assorted other fixed assets at $70 billion on its balance sheet."
   },
   {
-    "question": "What is a crucial characteristic required of underwriters at Berkshire Hathaway, according to Warren Buffett?",
-    "answer": "They can't be optimists at the office",
-    "context": "The most important lesson is that our underwriters can be thin, fat, male, female, young, old, foreign or domestic. But they can't be optimists at the office, however desirable that quality may generally be in life."
+    "question": "What was the cost mentioned to replicate BNSF's assets?",
+    "answer": "at least $500 billion",
+    "context": "But my guess is that it would cost at least $500 billion to replicate those assets and decades  to complete the job."
   },
   {
-    "question": "Who significantly contributed to the success of Berkshire Hathaway's insurance operations since 1986?",
+    "question": "How often do railroads have to deal with extreme weather conditions?",
+    "answer": "Weather conditions are extreme and frequently hamper or even stymie the utilization of track, bridges and equipment.",
+    "context": "North America's rail system moves huge quantities of coal, grain, autos, imported and  exported goods, etc. one-way  for long distances and those trips often create a revenue problem for  back-hauls. Weather conditions are extreme and frequently hamper or even stymie the utilization of track, bridges and equipment."
+  },
+  {
+    "question": "How often do suicides by train occur in North America?",
+    "answer": "about once a day",
+    "context": "This trauma happens about once a day in North America; it is far more common in Europe and will always be with us."
+  },
+  {
+    "question": "Why do American railroads have to carry dangerous products?",
+    "answer": "The words \"common carrier\" define railroad responsibilities.",
+    "context": "Additionally, American railroads are required to carry many dangerous products every day that the industry would much rather avoid. The words \"common carrier\" define railroad responsibilities."
+  },
+  {
+    "question": "Why did BNSF's earnings decline last year?",
+    "answer": "As revenues fell.",
+    "context": "Last year BNSF's earnings declined more than I expected, as revenues fell."
+  },
+  {
+    "question": "Why were the wage increases in Washington significant for BNSF?",
+    "answer": "They were far beyond the country's inflation goals.",
+    "context": "Though fuel costs also fell, wage increases, promulgated in Washington, were far beyond the country's inflation goals."
+  },
+  {
+    "question": "How does BNSF's capital expenditure compare to other major North American railroads?",
+    "answer": "BNSF spends more on capital expenditures than any of the five other major North American railroads.",
+    "context": "Though BNSF carries more freight and spends more on capital expenditures than any of the five other major North American railroads, its profit margins have slipped relative to all five since our purchase."
+  },
+  {
+    "question": "What is the projection for BNSF a century from now?",
+    "answer": "BNSF will continue to be a major asset of the country and of Berkshire.",
+    "context": "A century from now, BNSF will continue to be a major asset of the country and of Berkshire."
+  },
+  {
+    "question": "What main problem did BHE face last year?",
+    "answer": "The regulatory climate in a few states raised the specter of zero profitability or even bankruptcy.",
+    "context": "Our second and even more severe earnings disappointment last year occurred at BHE. Most of its large electric-utility businesses, as well as its extensive gas pipelines, performed about as expected. But the regulatory climate in a few states has raised the specter of zero profitability or even bankruptcy."
+  },
+  {
+    "question": "How long has the BHE's multi-state transmission project been in progress?",
+    "answer": "Since 2006",
+    "context": "BHE's extensive multi-state transmission project in the West was initiated in 2006 and remains some years from completion."
+  },
+  {
+    "question": "What fraction of the continental United States will BHE's transmission project eventually serve?",
+    "answer": "30% of the acreage",
+    "context": "Eventually, it will serve 10 states comprising 30% of the acreage in the continental United States."
+  },
+  {
+    "question": "What changed in the regulatory environment that affected electric utilities?",
+    "answer": "The fixed-but-satisfactory-return pact has been broken in a few states.",
+    "context": "Now, the fixed-but-satisfactory-return pact has been broken in a few states, and investors are becoming apprehensive that such ruptures may spread."
+  },
+  {
+    "question": "What might be the final outcome for the utility industry according to Berkshire?",
+    "answer": "The final result for the utility industry may be ominous: Certain utilities might no longer attract the savings of American citizens and will be forced to adopt the public-power model.",
+    "context": "Whatever the case at Berkshire, the final result for the utility industry may be ominous: Certain utilities might no longer attract the savings of American citizens and will be forced to adopt the public-power model. Nebraska made this choice in the 1930s and there are many public-power operations throughout the country."
+  },
+  {
+    "question": "What historical decision did Nebraska make regarding its utility industry?",
+    "answer": "Nebraska made this choice in the 1930s and there are many public-power operations throughout the country.",
+    "context": "Whatever the case at Berkshire, the final result for the utility industry may be ominous: Certain utilities might no longer attract the savings of American citizens and will be forced to adopt the public-power model. Nebraska made this choice in the 1930s and there are many public-power operations throughout the country."
+  },
+  {
+    "question": "What key attribute is stated as undesirable for underwriters in the P/C business?",
+    "answer": "The most important lesson is that our underwriters can be thin, fat, male, female, young, old, foreign or domestic. But they can't be optimists at the office.",
+    "context": "Beyond that, we have learned - too often, painfully - a good deal about what types of insurance business and what sort of people to avoid. The most important lesson is that our underwriters can be thin, fat, male, female, young, old, foreign or domestic. But they can't be optimists at the office, however desirable that quality may generally be in life."
+  },
+  {
+    "question": "What kind of surprises typically occur in the Property-casualty insurance business?",
+    "answer": "Surprises in the P/C business - which can occur decades after six-month or one-year policies have expired - are almost always negative.",
+    "context": "Surprises in the P/C business - which can occur decades after six-month or one-year policies have expired - are almost always negative. The industry's accounting is designed to recognize this reality, but estimation mistakes can be huge."
+  },
+  {
+    "question": "Who has been instrumental in the success of Berkshire's insurance operations since 1986?",
     "answer": "Ajit Jain",
-    "context": "Here, I will only repeat that our position would not be what it is if Ajit Jain had not joined Berkshire in 1986."
+    "context": "I've told the story of our insurance operations so many times that I will simply direct newcomers to page 18. Here, I will only repeat that our position would not be what it is if Ajit Jain had not joined Berkshire in 1986."
   },
   {
-    "question": "What unique connection do the three current managers of Berkshire Hathaway have with Omaha?",
-    "answer": "They all have lived in Omaha",
-    "context": "Greg Abel, who runs all non-insurance operations for Berkshire - and in all respects is ready to be CEO of Berkshire tomorrow - was born and raised in Canada (he still plays hockey). In the 1990s, however, Greg lived for six years in Omaha just a few blocks away from me. During that period, I never met him.\nA decade or so earlier, Ajit Jain, who was born, raised and educated in India, lived with his family in Omaha only a mile or so from my home (where I've lived since 1958)."
+    "question": "Who will you see on stage at Berkshire's annual gathering in 2024?",
+    "answer": "Greg Abel, who runs all non-insurance operations for Berkshire - and in all respects is ready to be CEO of Berkshire tomorrow.",
+    "context": "Come to Berkshire's annual gathering on May 4, 2024. On stage you will see the three managers who now bear the prime responsibilities for steering your company. What, you may wonder, do the three have in common? They certainly don't look alike. Let's dig deeper. Greg Abel, who runs all non-insurance operations for Berkshire - and in all respects is ready to be CEO of Berkshire tomorrow - was born and raised in Canada (he still plays hockey)."
   },
   {
-    "question": "What significant life event marked the beginning of Bertie's highly successful financial journey?",
-    "answer": "Deciding to make her move in 1980",
-    "context": "Then, in 1980, when 46, and independent of any urgings from her brother, Bertie decided to make her move."
+    "question": "What has been the key to Berkshire's insurance business's success over 57 years?",
+    "answer": "The core of Berkshire's success over 57 years has been its Property-casualty insurance (P/C) business.",
+    "context": "Enough about problems: Our insurance business performed exceptionally well last year, setting records in sales, float and underwriting profits. Property-casualty insurance (\"P/C\") provides the core of Berkshire's well-being and growth. We have been in the business for 57 years and despite our nearly 5,000-fold increase in volume - from $17 million to $83 billion - we have much room to grow."
   },
   {
-    "question": "What annual event does Warren Buffett invite people to for experiencing the so-called \"Omaha Effect\"?",
-    "answer": "Berkshire's annual gathering on May 4, 2024",
-    "context": "What is it with Omaha?\nCome to Berkshire's annual gathering on May 4, 2024."
+    "question": "What unique personal connection do Ajit Jain and Warren Buffett have with Omaha?",
+    "answer": "Both Ajit Jain and Warren Buffett have lived in Omaha; Ajit only a mile or so from Buffett's home.",
+    "context": "A decade or so earlier, Ajit Jain, who was born, raised and educated in India, lived with his family in Omaha only a mile or so from my home (where I've lived since 1958). Both Ajit and his wife, Tinku, have many Omaha friends, though it's been more than three decades since they moved to New York (in order to be where much of the action in reinsurance takes place)."
   },
   {
-    "question": "What has been the overall gain of Berkshire Hathaway per share market value from 1964 to 2023?",
-    "answer": "4,384,748%",
-    "context": "Overall Gain - 1964-2023 ... 4,384,748%"
+    "question": "What attribute of the P/C insurance business's accounting is designed to accommodate its nature?",
+    "answer": "The industry's accounting is designed to recognize the reality that surprises in the P/C business are almost always negative.",
+    "context": "Surprises in the P/C business - which can occur decades after six-month or one-year policies have expired - are almost always negative. The industry's accounting is designed to recognize this reality, but estimation mistakes can be huge."
+  },
+  {
+    "question": "What event does Berkshire invite people to on May 4, 2024?",
+    "answer": "Berkshire's annual gathering",
+    "context": "Come to Berkshire's annual gathering on May 4, 2024. On stage you will see the three managers who now bear the prime responsibilities for steering your company."
+  },
+  {
+    "question": "Where did Charlie and Warren Buffett spend their early years?",
+    "answer": "Omaha",
+    "context": "In his first ten years, Charlie lived about a half-mile from where Berkshire has long maintained its office. Both Charlie and I spent our early years in Omaha public schools and were indelibly shaped by our Omaha childhood."
+  },
+  {
+    "question": "How many of America's presidents had Charlie lived under by the time of writing?",
+    "answer": "15",
+    "context": "(A footnote that may surprise you: Charlie lived under 15 of America's 45 presidents. People refer to President Biden as #46, but that numbering counts Grover Cleveland as both #22 and #24 because his terms were not consecutive."
+  },
+  {
+    "question": "When did Berkshire relocate to Omaha?",
+    "answer": "1970",
+    "context": "Moving to the corporate level, Berkshire itself relocated in 1970 from its 81 years of residence in New England to settle in Omaha, leaving its troubles behind and blossoming in its new home."
+  },
+  {
+    "question": "What significant life event did Bertie start in 1956?",
+    "answer": "Starting a family",
+    "context": "But that's not true. After starting a family in 1956, Bertie was active financially for 20 years: holding bonds, putting  1/3 of her funds in a publicly-held mutual fund and trading stocks with some  frequency."
+  },
+  {
+    "question": "In which city did Bertie and Warren Buffett absorb their financial common sense?",
+    "answer": "Omaha",
+    "context": "Millions of American investors could  have followed her reasoning which involved only  the common sense she had somehow absorbed as a child in Omaha."
+  },
+  {
+    "question": "What annual tradition does Bertie have that involves returning to Omaha?",
+    "answer": "Returns to Omaha every May",
+    "context": "And, taking no chances, Bertie returns to Omaha every  May to be re-energized."
+  },
+  {
+    "question": "When was the 4th edition of Poor Charlie's Almanack set to be available?",
+    "answer": "February 24, 2024",
+    "context": "To top things off, we will have available the new 4 th edition of Poor Charlie's Almanack.  Pick up a copy. Charlie's wisdom will improve your life as it has mine.  February 24, 2024  Warren E. Buffett  Chairman of the Board"
+  },
+  {
+    "question": "What is compared in the last section of the text?",
+    "answer": "Berkshire's Performance vs. the S&P 500",
+    "context": "Berkshire's Performance vs. the S&P 500   Annual Percentage Change  Year in Per-Share  Market Value of  Berkshire in S&P 500  with Dividends  Included"
+  },
+  {
+    "question": "What significant change did Bertie make in her investments in 1980?",
+    "answer": "Retaining only the mutual fund and Berkshire, made no new trades",
+    "context": "Then, in 1980, when 46, and independent of any urgings from her brother, Bertie decided  to make her move. Retaining only the mutual fund and Berkshire, she made no new trades during  the next 43 years."
+  },
+  {
+    "question": "Who is encouraged to visit Omaha in May according to the text?",
+    "answer": "The reader",
+    "context": "Keep an open mind. Come to Omaha in May, inhale the air, drink the water and say \"hi\"  to Bertie and her good-looking daughters. Who knows? There is no downside, and, in any event, you will have a good time and meet a huge crowd of friendly people."
+  },
+  {
+    "question": "What was the annual gain for 1991?",
+    "answer": "35.6 30.5",
+    "context": "...1991 ... 35.6 30.5  1992 ..."
+  },
+  {
+    "question": "How much did the overall gain amount to from 1964 to 2023?",
+    "answer": "4,384,748% 31,223%",
+    "context": "Overall Gain - 1964-2023 ... 4,384,748% 31,223%"
+  },
+  {
+    "question": "What were the two lowest annual gains recorded in 1996?",
+    "answer": "6.2 23.0",
+    "context": "1995 ... 57.4 37.6  1996 ... 6.2 23.0  1997 ..."
+  },
+  {
+    "question": "Which year had its first negative annual gain reported?",
+    "answer": "1999",
+    "context": "1998 ... 52.2 28.6  1999 ... (19.9) 21.0  2000 ..."
+  },
+  {
+    "question": "What was the Compounded Annual Gain from 1965 to 2023?",
+    "answer": "19.8% 10.2%",
+    "context": "Compounded Annual Gain - 1965-2023 ... 19.8% 10.2%"
+  },
+  {
+    "question": "What year recorded an annual gain of more than 50%?",
+    "answer": "1995",
+    "context": "1994 ... 25.0 1.3  1995 ... 57.4 37.6  1996 ..."
+  },
+  {
+    "question": "In which years were negative gains recorded for both values listed?",
+    "answer": "2002, 2008",
+    "context": "...2001 ... 6.5 (11.9)  2002 ... (3.8) (22.1)  2003 ... 2008 ... (31.8) (37.0) 2009 ..."
+  },
+  {
+    "question": "Which year had the highest annual gain recorded within the data?",
+    "answer": "1995",
+    "context": "1994 ... 25.0 1.3  1995 ... 57.4 37.6  1996 ..."
+  },
+  {
+    "question": "How did the overall gain compare between the earlier and later years specified?",
+    "answer": "4,384,748% vs 31,223%",
+    "context": "Overall Gain - 1964-2023 ... 4,384,748% 31,223%"
+  },
+  {
+    "question": "What was the annual gain percentage for the year 2023?",
+    "answer": "15.8 26.3",
+    "context": "2022 ... 4.0 (18.1)  2023 ... 15.8 26.3"
   }
 ]
